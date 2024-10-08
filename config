@@ -8,4 +8,6 @@ character_warning = 140
 
 [following]
 twtxt = https://buckket.org/twtxt_news.txt
+dfaria = https://dfaria.eu/twtxt.txt
+dracoblue = https://dracoblue.net/twtxt.txt
 
